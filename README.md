@@ -1,6 +1,6 @@
 # SentiBridge
 
-《SentiBridge: 实体/属性-情感词》
+《SentiBridge: 实体-情感词知识库》
 
 实体/属性-情感词对定义：实体/属性—情感词
 
