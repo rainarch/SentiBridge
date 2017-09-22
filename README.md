@@ -1,6 +1,7 @@
 # SentiBridge
 
 《SentiBridge: 实体-情感词知识库》
+<SentiBridge: A Knowledge Base for Entity-Sentiment Representation >
 
 实体/属性-情感词对定义：实体/属性—情感词
 
@@ -10,4 +11,6 @@
 
 参考文献：
 
-- 卢奇, 陈文亮. 中文实体情感表达组合的抽取, CCKS-2017, 已录用(2017-8-1)
+- 卢奇, 陈文亮. 中文实体情感表达组合的抽取, CCKS-2017
+- LU Qi, CHEN Wenliang, Extracting Chinese Entity Sentiment Expression, CCKS-2017
+
