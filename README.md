@@ -11,6 +11,6 @@ SentiBridge数据仅供学术研究使用，商用请联系我们获取授权。
 
 参考文献：
 
-- 卢奇, 陈文亮. 中文实体情感表达组合的抽取, CCKS-2017
-- LU Qi, CHEN Wenliang, Extracting Chinese Entity Sentiment Expression, CCKS-2017
+- 卢奇, 陈文亮. 大规模中文实体情感知识的自动获取, 中文信息学报, 已录用2018-1
+- LU Qi, CHEN Wenliang, Automatically Building a Large Scale Dictionary of Chinese Entity Sentiment Expressions, Journal of Chinese Information Processing, Accepted for publication (2018-1).
 
