@@ -1,9 +1,8 @@
 # SentiBridge
 
-《SentiBridge: 中文实体情感知识库》
-<SentiBridge: A Knowledge Base for Entity-Sentiment Representation >
+《SentiBridge: 中文实体情感知识库》/ SentiBridge: A Knowledge Base for Entity-Sentiment Representation 
 
-本词典包含：实体/属性—情感词。例如：“长城  宏伟”、“性价比  高”、“价格  高”。
+本词典包含：实体/属性—情感词。例如：“长城  宏伟”、“性价比  高”、“价格  高”。主要目的是刻画人们是怎么描述某个实体的，例如大家通常用 宏伟 来形容长城。
 
 目前词典包含三个领域语料的抽取结果：新闻、旅游、餐饮，共计30万对。
 
