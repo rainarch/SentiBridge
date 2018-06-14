@@ -23,12 +23,12 @@
 3) python Pair_Refine.py --n_path ./CCF_data/pair_mine_n_result --s_path ./CCF_data/pair_mine_s_result --sim 0.3 --result_path ./CCF_data/pair_mine_result
 
 === 系统说明 ===
-候选集合构建中间中文进行保存
-待处理文本重命名为data.ori
-词性标注后，data.ori.pos
-文本切片后，data.ori.pos.seg
+* 候选集合构建中间中文进行保存
+* 待处理文本重命名为data.ori
+* 词性标注后，data.ori.pos
+* 文本切片后，data.ori.pos.seg
   - 需要使用file2wc.py将data.ori.pos转为data.ori.pos.w2c文本用来训练word2vec模型
   - 将上一步骤得到的w2c文件，通过word2vec.py训练相应的模型文件
-最终得到，pair_ns, pair_pt两个文本，pair_ns只保留pair信息，pair_pt保留pair和patt的映射关系
-排序后，迭代结果保存至Iterative_record文件夹中，默认迭代100次，保留了每一轮的迭代结果。
-提炼后，结果为pair_ming_n_result, pair_mine_s_result和pair_mine_result三个文件。pair_mine_result是我们提炼的最终结果。
+* 最终得到，pair_ns, pair_pt两个文本，pair_ns只保留pair信息，pair_pt保留pair和patt的映射关系
+* 排序后，迭代结果保存至Iterative_record文件夹中，默认迭代100次，保留了每一轮的迭代结果。
+* 提炼后，结果为pair_ming_n_result, pair_mine_s_result和pair_mine_result三个文件。pair_mine_result是我们提炼的最终结果。
