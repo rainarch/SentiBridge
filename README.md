@@ -38,8 +38,8 @@
 
 
 ## 代码
-代码在目录： ./Entity_Emotion_Express
-
+* 代码在目录： ./Entity_Emotion_Express
+* 为了取得较好效果，最好使用用户评论数据，例如：淘宝评论、大众点评评论、携程评论等等。
 
 ## 声明和参考文献
 1. SentiBridge数据仅供学术研究使用，商用请联系我们(wlchen at suda.edu.cn)获取授权。
