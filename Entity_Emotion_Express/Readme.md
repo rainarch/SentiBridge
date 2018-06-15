@@ -44,3 +44,4 @@
 5. 最终得到，pair_ns, pair_pt两个文本，pair_ns只保留pair信息，pair_pt保留pair和patt的映射关系
 6. 排序后，迭代结果保存至Iterative_record文件夹中，默认迭代100次，保留了每一轮的迭代结果。
 7. 提炼后，结果为pair_ming_n_result, pair_mine_s_result和pair_mine_result三个文件。pair_mine_result是我们提炼的最终结果。
+
