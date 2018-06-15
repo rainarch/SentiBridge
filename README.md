@@ -38,7 +38,7 @@
 
 
 ## 代码
-代码在目录： /Entity_Emotion_Express
+代码在目录： ./Entity_Emotion_Express
 
 
 ## 声明和参考文献
