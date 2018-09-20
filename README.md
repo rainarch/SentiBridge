@@ -44,6 +44,6 @@
 ## 声明和参考文献
 1. SentiBridge数据仅供学术研究使用，商用请联系我们(wlchen at suda.edu.cn)获取授权。
 2. 相关文献
-  * 卢奇, 陈文亮. 大规模中文实体情感知识的自动获取, 中文信息学报, 32(8), 2018年8月
-  * LU Qi, CHEN Wenliang, Automatically Building a Large Scale Dictionary of Chinese Entity Sentiment Expressions, Journal of Chinese Information Processing, 32(8), 2018-8.
+  * 卢奇, 陈文亮. 大规模中文实体情感知识的自动获取, 中文信息学报, 32 (8): 32-41, 2018年8月 
+  * LU Qi, CHEN Wenliang, Automatically Building a Large Scale Dictionary of Chinese Entity Sentiment Expressions, Journal of Chinese Information Processing, 32 (8): 32-41, 2018-8.
 
